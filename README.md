@@ -16,12 +16,12 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I am a 6th-year student at **FPT University**, majoring in Backend Web Development.
+- 🎓 I am a 6th-year student at **LY TU TRONG COLLEGE**, majoring in Backend Web Development.
 - 💻 I have hands-on experience with **Fullstack** web development, particularly with **React** and **Laravel**.
 - 📚 I’m constantly learning new technologies, currently focused on improving my skills with **Redux** and **React ecosystem**.
 - 🛠️ I enjoy building intuitive user interfaces and optimizing backend APIs to enhance user experience.
 - 👨‍🔧 I'm skilled in React, Laravel, and building RESTful APIs.
-- 🏢 Currently working as a Junior Web Developer at GIA THANH REFRIGERATION JSC.
+- 🏢 Currently working as a Junior Web Developer at MEVIVU TECHNOLOGY.
 
 ---
 
@@ -52,10 +52,10 @@ I aim to become a **Senior Web Developer** in 2-3 years, focusing on **scalable 
 ### 🤝 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/pbao" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tran%20Khanh%20Duy-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-PHAM%20GIA%20BAO-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:pbao.business@gmail.com">
-    <img src="https://img.shields.io/badge/Email-trankhanhduy.dev@gmail.com-red?style=flat-square&logo=gmail" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-pbao.business@gmail.com-red?style=flat-square&logo=gmail" alt="Gmail"/>
   </a>
 </p>
 
