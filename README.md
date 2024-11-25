@@ -51,10 +51,10 @@ I aim to become a **Senior Web Developer** in 2-3 years, focusing on **scalable 
 
 ### 🤝 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/trankhanhduy" target="_blank">
+  <a href="https://www.linkedin.com/in/pbao" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tran%20Khanh%20Duy-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:trankhanhduy463@gmail.com">
+  <a href="mailto:pbao.business@gmail.com">
     <img src="https://img.shields.io/badge/Email-trankhanhduy.dev@gmail.com-red?style=flat-square&logo=gmail" alt="Gmail"/>
   </a>
 </p>
@@ -62,13 +62,9 @@ I aim to become a **Senior Web Developer** in 2-3 years, focusing on **scalable 
 ---
 
 ### ⚡ Fun Fact:
-I love organizing talk shows about the **differences between learning in school and working in the real world**. Sharing knowledge and connecting with industry experts is my way of bridging the gap between theory and practice.
+Copy paste
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devcontainerDuy&show_icons=true&theme=tokyonight&hide=stars,issues" alt="devcontainerDuy's GitHub stats" />
-</p>
 
 <!---
 devcontainerDuy/devcontainerDuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
