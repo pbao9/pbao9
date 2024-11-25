@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I am a 6th-year student at **LY TU TRONG COLLEGE**, majoring in Backend Web Development.
+- 🎓 I am a student at **LY TU TRONG COLLEGE**, majoring in Backend Web Development.
 - 💻 I have hands-on experience with **Fullstack** web development, particularly with **React** and **Laravel**.
 - 📚 I’m constantly learning new technologies, currently focused on improving my skills with **Redux** and **React ecosystem**.
 - 🛠️ I enjoy building intuitive user interfaces and optimizing backend APIs to enhance user experience.
