@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Code lor</h1>
+<h1 align="center">Hi 👋, I'm Baro Pham</h1>
 <h3 align="center">A passionate Fullstack Web Developer</h3>
-
 
 ---
 
@@ -20,26 +19,20 @@
 - 💻 I have hands-on experience with **Fullstack** web development, particularly with **React** and **Laravel**.
 - 📚 I’m constantly learning new technologies, currently focused on improving my skills with **Redux** and **React ecosystem**.
 - 🛠️ I enjoy building intuitive user interfaces and optimizing backend APIs to enhance user experience.
-- 👨‍🔧 I'm skilled in React, Laravel, and building RESTful APIs.
-- 🏢 Currently working as a Junior Web Developer at MEVIVU TECHNOLOGY.
+- 👨‍🔧 I'm skilled in React, NodeJS (ExpressJS), PHP (Laravel, Magento), and building RESTful APIs.
 
 ---
 
 ### 🌟 Skills & Technologies:
 - **Frontend**: React, Redux, Bootstrap, HTML, CSS, JavaScript
-- **Backend**: Laravel, PHP, MySQL, RESTful APIs
+- **Backend**: Laravel, ExpressJS, MySQL, MongoDB, RESTful APIs
 - **Tools**: Git, Visual Studio Code, Postman, NPM, Composer, NPM
-
----
-
-### 🛠️ What I'm Currently Working On:
-- **Booking System**: Developing a comprehensive hair appointment booking system with customizable time slots and filtering options.
-- **E-commerce Platform**: Creating dynamic, user-friendly shopping experiences with product filtering, cart functionality, and secure payments.
 
 ---
 
 ### 🌱 Currently Learning:
 - WebSocket integration in Laravel for real-time communication
+- Nodejs Framework ExpressJs build api for FrontEnd Application Flutter, ReactNative...
 - Building efficient, scalable APIs and backend systems with advanced caching and queueing strategies
 
 ---
@@ -65,8 +58,3 @@ I aim to become a **Senior Web Developer** in 2-3 years, focusing on **scalable 
 Copy paste
 
 ---
-
-<!---
-devcontainerDuy/devcontainerDuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
