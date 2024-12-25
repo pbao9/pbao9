@@ -19,7 +19,7 @@
 - 💻 I have hands-on experience with **Fullstack** web development, particularly with **React** and **Laravel**.
 - 📚 I’m constantly learning new technologies, currently focused on improving my skills with **Redux** and **React ecosystem**.
 - 🛠️ I enjoy building intuitive user interfaces and optimizing backend APIs to enhance user experience.
-- 👨‍🔧 I'm skilled in React, NodeJS (ExpressJS), PHP (Laravel, Magento), and building RESTful APIs.
+- 👨‍🔧 I'm skilled in React, NodeJS (ExpressJS), PHP (Laravel), and building RESTful APIs.
 
 ---
 
