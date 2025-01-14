@@ -24,7 +24,7 @@
 ---
 
 ### 🌟 Skills & Technologies:
-- **Frontend**: React, Redux, Bootstrap, HTML, CSS, JavaScript
+- **Frontend**: React, Bootstrap, JavaScript
 - **Backend**: Laravel, ExpressJS, MySQL, MongoDB, RESTful APIs
 - **Tools**: Git, Visual Studio Code, Postman, NPM, Composer, Yarn
 
