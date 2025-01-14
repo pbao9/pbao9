@@ -38,7 +38,7 @@
 ---
 
 ### 💼 Career Goal:
-I aim to become a **Senior Web Developer** in 2-3 years, focusing on **scalable web applications** and modern **backend architectures**.
+I aim to become a **Senior Web Developer** in 3-5 years, focusing on **scalable web applications** and modern **backend architectures**.
 
 ---
 
