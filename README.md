@@ -4,8 +4,8 @@
 ---
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" /> 
-  <img src="https://img.shields.io/badge/code-Express-white?style=for-the-badge&logo=express&logoColor=#333" alt="Express" /> 
+  <img src="https://img.shields.io/badge/Libary-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" /> 
+  <img src="https://img.shields.io/badge/Framework-Express-white?style=for-the-badge&logo=express&logoColor=#333" alt="Express" /> 
   <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> 
   <img src="https://img.shields.io/badge/Frontend-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
