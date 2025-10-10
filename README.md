@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Fullstack Web Developer & Aspiring Data Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
@@ -83,6 +83,27 @@
 | 📡 API & Realtime | 🧠 Data Engineering | ☁️ Scaling |
 |-------------------|----------------------|-------------|
 | Laravel WebSockets · Express APIs for Flutter | ETL Pipelines, Data Warehousing, Data Modeling | Kubernetes, Docker Compose, AWS Deployments |
+
+---
+
+### 🧭 Career Timeline
+
+| 🕒 Thời gian | 🚀 Cột mốc sự nghiệp | 📝 Mô tả |
+|-------------|----------------------|---------|
+| **2021 – 2022** | 👨‍🎓 **Học nền tảng Web** | Bắt đầu hành trình lập trình web — học HTML, CSS, JS cơ bản và PHP/Laravel tại trường & tự học thêm. |
+| **2022 – 2023** | 🧰 **Backend Developer (Laravel)** | Làm việc thực chiến với Laravel, MySQL, xây dựng RESTful API, xử lý logic server-side, quản lý CSDL. |
+| **2023 – 2024** | 🌐 **Mở rộng sang Fullstack** | Học và áp dụng **React**, **Next.js**, **Vue.js**, **Nuxt.js**, triển khai thực tế các dự án web đa nền tảng. |
+| **2024 – 2025** | ☁️ **Cloud & DevOps** | Làm quen với **Docker**, **K8S**, **AWS**, **Supabase**, triển khai ứng dụng production trên VPS & Cloud. |
+| **2025 →** | 📊 **Chuyển hướng Data Engineer** | Định hướng xây dựng hệ thống **ETL**, **data pipelines**, **warehouse**, kết hợp nền tảng backend để mở rộng sự nghiệp sang lĩnh vực Data. |
+
+---
+
+### 🌐 Portfolio & Startup
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🧑‍💻 **Personal Portfolio** | Giới thiệu bản thân, showcase kỹ năng & dự án | [baro-dev.io.vn](https://baro-dev.io.vn) |
+| 🚀 **Devro-Tech Startup** | Nền tảng dịch vụ Web • Hosting • Cloud • Data | [devro-tech.com](https://devro-tech.com) |
 
 ---
 
