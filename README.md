@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8" />
-  <title>README - Baro Pham</title>
+  <h1>README - Baro Pham</h1>
 </head>
 <body>
 
@@ -146,3 +146,4 @@ Dạo gần đây, mình bắt đầu bước chân vô thế giới <strong>Dat
 
 </body>
 </html>
+](https://nova.laravel.com/docs/v5/installation)
