@@ -1,67 +1,46 @@
-<div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Baro+Pham+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-  
-  <h3>🚀 Fullstack Developer | Aspiring Data Engineer 📊</h3>
-  
-  <p>
-    I transform complex problems into elegant, scalable solutions. With a solid background in full-stack development, my journey is now steering towards the world of data, focusing on building the robust data pipelines that power intelligent applications.
-  </p>
-  
-  <p>
-    <a href="https://baro-dev.io.vn" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-baro--dev.io.vn-blue?style=for-the-badge&logo=icloud&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/pbao" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-pbao-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:pbao.business@gmail.com">
-      <img src="https://img.shields.io/badge/Email-pbao.business@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=pbao9&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile visitor count" />
-  </p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/api/trophy?username=pbao9&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Baro+Pham+%F0%9F%91%8B;Fullstack+Architect+%7C+Aspiring+Data+Engineer;From+REST+%26+GraphQL+APIs+to+Intelligent+Data+Pipelines" alt="Typing SVG" />
+  </a>
 </div>
+
+<p align="center">
+    <a href="https://baro-dev.io.vn" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/pbao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:pbao.business@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=pbao9&label=PROFILE+VIEWS&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-## 🛠️ My Tech Arsenal
-
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h3 align="center">Frontend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular" /><br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap" />
+    <td width="65%" valign="top">
+      <h2 align="left">👋 Giới thiệu</h2>
+      <p align="left">
+        Chào bạn, tôi là một nhà phát triển đam mê xây dựng các hệ thống toàn diện, từ việc kiến trúc backend mạnh mẽ, thiết kế các API linh hoạt (**REST**, **GraphQL**) cho đến việc tạo ra giao diện người dùng trực quan.
+        <br/><br/>
+        Hành trình của tôi đang mở rộng sang lĩnh vực **Data Engineering** và **Computer Vision**. Tôi tập trung vào việc xây dựng các đường ống dữ liệu (ETL) hiệu quả, đồng thời khám phá tiềm năng của **OpenCV** và **Python** để biến dữ liệu thô và hình ảnh thành những insight giá trị, tạo ra các giải pháp thông minh và tự động hóa.
       </p>
+      
+      <h2 align="left">🎯 Mục tiêu Sự nghiệp</h2>
+      <ul>
+        <li>🎯 **Ngắn hạn:** Trở thành một **Senior Developer** xuất sắc, làm chủ các mẫu thiết kế hệ thống phức tạp và dẫn dắt các dự án có tầm ảnh hưởng.</li>
+        <li>🔭 **Dài hạn:** Chuyển đổi thành công sang vai trò **Data Engineer**, chuyên sâu về kiến trúc các hệ sinh thái dữ liệu lớn và ứng dụng Machine Learning.</li>
+      </ul>
     </td>
-    <td align="center" width="50%">
-      <h3 align="center">Backend</h3>
+    <td width="35%" valign="top">
+      <h2 align="center">🛠️ Kho Vũ khí Công nghệ</h2>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python" /><br>
-        <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3 align="center">Databases & Data</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /><br>
-        <img src="https://skillicons.dev/icons?i=supabase,firebase" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3 align="center">Cloud, DevOps & Tools</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions" /><br>
-        <img src="https://skillicons.dev/icons?i=postman,vscode,figma" />
+        <img src="https://skillicons.dev/icons?i=python,django,laravel,php,nodejs,express" /><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind" /><br>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,graphql" /><br>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions" /><br>
+        <img src="https://skillicons.dev/icons?i=opencv,postman,vscode,figma" />
       </p>
     </td>
   </tr>
@@ -69,45 +48,37 @@
 
 ---
 
-## 🧭 Career Timeline & Journey
+## 🧭 Hành trình Sự nghiệp & Học hỏi
 
-| 🕒 Thời gian | 🚀 Cột mốc sự nghiệp | 📝 Mô tả chi tiết |
-|:---:|:---|:---|
-| **2021 – 2022** | 👨‍🎓 **Foundational Learning** | 📖 Bắt đầu hành trình với nền tảng web (HTML, CSS, JS) và đi sâu vào backend với PHP & Laravel. |
-| **2022 – 2023** | 🧰 **Backend Developer (Laravel)** | 👨‍💻 Xây dựng và phát triển RESTful APIs, tối ưu hóa CSDL (MySQL) và xử lý logic nghiệp vụ phức tạp. |
-| **2023 – 2024** | 🌐 **Fullstack Expansion** | 🎨 Mở rộng kỹ năng sang frontend với **React, Next.js, Vue.js** để xây dựng các ứng dụng web toàn diện. |
-| **2024 – 2025** | ☁️ **Embracing Cloud & DevOps** | ☁️ Triển khai ứng dụng production, làm việc với **Docker, K8S, AWS** và các nền tảng BaaS. |
-| **2025 →** | 📊 **Transitioning to Data Engineering** | 📈 Định hướng sự nghiệp sang lĩnh vực Dữ liệu, tập trung vào **ETL, Data Pipelines, Data Warehousing**. |
-
----
-
-## 🌱 I'm Currently Cultivating
-
-* **Data Orchestration:** Deep diving into **Apache Airflow** for building robust data workflows.
-* **System Design:** Studying scalable architecture patterns for high-traffic applications.
-* **Cloud Native:** Expanding my knowledge in **Kubernetes** and cloud monitoring tools.
+| 🕒 Thời gian      | 🚀 Cột mốc                                      | 📝 Trọng tâm & Công nghệ                                                                       |
+|:------------------:|:------------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| **2021 – 2022** | 👨‍🎓 **Xây dựng Nền tảng** | Bắt đầu với web fundamentals, đi sâu vào backend với **PHP & Laravel**. |
+| **2022 – 2023** | 🧰 **Chuyên sâu Backend & API** | Thiết kế **RESTful APIs** mạnh mẽ, tối ưu hóa CSDL, làm việc với **Django** và kiến trúc microservices.   |
+| **2023 – 2024** | 🌐 **Mở rộng Fullstack** | Làm chủ **React, Next.js, Vue.js** và tích hợp với các API (**REST, GraphQL**) để tạo ra ứng dụng hoàn chỉnh.  |
+| **2024 – Hiện tại** | ☁️ **Cloud, DevOps & Data** | Triển khai ứng dụng với **Docker, Kubernetes**, và bắt đầu hành trình với Dữ liệu, khám phá **OpenCV**. |
+| **Tương lai →** | 📊 **Tiến vào Vùng đất Dữ liệu** | **Mục tiêu:** Xây dựng các **ETL/ELT pipeline** phức tạp, làm chủ **Apache Airflow**, và ứng dụng AI/ML. |
 
 ---
 
-## 🎯 Career Goals
-
-- 🎯 **Short-Term (1-2 Years):** Attain a **Senior Backend/Fullstack** role by mastering **system design principles**, advanced **cloud architecture**, and leading complex projects from inception to deployment.
-- 🔭 **Long-Term (3-5 Years):** Successfully transition into a **Data Engineer** role, focusing on designing and implementing large-scale **ETL processes**, building resilient **data pipelines**, and managing scalable data infrastructure in the cloud.
-
-> “The best way to learn is to build. The best way to grow is to share.” 💡
-
----
-
-## 📊 My GitHub Stats
+## 📊 Thống kê GitHub của tôi
 
 <details>
-<summary>⚡ Click to View My GitHub Stats</summary>
+  <summary>⚡ Nhấn để xem chi tiết</summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pbao9&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbao9&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbao9&layout=compact&theme=tokyonight&hide_border=true" />
+  </p>
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pbao9/pbao9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbao9&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbao9&theme=tokyonight&cache_seconds=86400" />
+  <i>“Cách tốt nhất để học là xây dựng. Cách tốt nhất để phát triển là chia sẻ.”</i>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbao9&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
-</details>
