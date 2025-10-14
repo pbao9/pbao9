@@ -146,4 +146,3 @@ Dạo gần đây, mình bắt đầu bước chân vô thế giới <strong>Dat
 
 </body>
 </html>
-](https://nova.laravel.com/docs/v5/installation)
