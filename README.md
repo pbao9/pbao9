@@ -29,20 +29,21 @@
   <img src="https://komarev.com/ghpvc/?username=pbao9&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="profile views"/>
 </p>
 
-<table style="width:100%;">
+<table>
   <tr>
     <td valign="top" style="width:65%;">
       <h2 align="left">👋 Giới thiệu</h2>
-      <p align="left">
+      <p>
         Tôi là một nhà phát triển đam mê xây dựng các hệ thống toàn diện, từ việc kiến trúc backend mạnh mẽ, thiết kế API linh hoạt (<strong>REST, GraphQL</strong>) cho đến việc tạo ra giao diện người dùng trực quan.
-        <br><br>
-        Hiện tại, hành trình của tôi đang mở rộng sang lĩnh vực <strong>Data Engineering</strong> và <strong>Computer Vision</strong>. Tôi tập trung vào việc xây dựng các đường ống dữ liệu (ETL) hiệu quả, đồng thời khám phá tiềm năng của <strong>OpenCV</strong> và <strong>Python</strong> để biến dữ liệu thô thành những insight giá trị.
+      </p>
+      <p>
+        Hiện tại, hành trình của tôi đang mở rộng sang lĩnh vực <strong>Data Engineering</strong> và <strong>Computer Vision</strong>.
       </p>
 
       <h2 align="left">🎯 Mục tiêu Sự nghiệp</h2>
       <ul>
-        <li><strong>Ngắn hạn:</strong> Trở thành một <strong>Senior Developer</strong> xuất sắc, làm chủ các mẫu thiết kế hệ thống phức tạp và dẫn dắt các dự án có tầm ảnh hưởng.</li>
-        <li><strong>Dài hạn:</strong> Chuyển đổi thành công sang vai trò <strong>Data Engineer</strong>, chuyên sâu về kiến trúc các hệ sinh thái dữ liệu lớn và ứng dụng Machine Learning.</li>
+        <li><strong>Ngắn hạn:</strong> Trở thành một <strong>Senior Developer</strong> xuất sắc, làm chủ các mẫu thiết kế hệ thống phức tạp và dẫn dắt dự án có tầm ảnh hưởng.</li>
+        <li><strong>Dài hạn:</strong> Chuyển đổi thành công sang vai trò <strong>Data Engineer</strong>, chuyên sâu về kiến trúc dữ liệu lớn và ứng dụng ML.</li>
       </ul>
     </td>
     <td valign="top" style="width:35%;">
@@ -57,6 +58,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
