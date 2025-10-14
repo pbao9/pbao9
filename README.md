@@ -33,18 +33,19 @@
 <tr>
 <td valign="top" width="65%">
 
-<h2>👋 Giới thiệu</h2>
+<h2>👋 Xin chào, mình là Bảo đây!</h2>
 <p>
-Tôi là một nhà phát triển đam mê xây dựng các hệ thống toàn diện, từ việc kiến trúc backend mạnh mẽ, thiết kế API linh hoạt (<strong>REST, GraphQL</strong>) cho đến việc tạo ra giao diện người dùng trực quan.
+Mình là một lập trình viên đam mê xây dựng những sản phẩm “xịn xò” từ backend tới frontend. Từ việc thiết kế hệ thống vững chắc, API chuẩn chỉnh (<strong>REST, GraphQL</strong>) cho tới tạo ra giao diện thân thiện, mượt mà – tất cả đều là niềm vui mỗi ngày của mình.
 </p>
+
 <p>
-Hiện tại, hành trình của tôi đang mở rộng sang lĩnh vực <strong>Data Engineering</strong> và <strong>Computer Vision</strong>. Tôi tập trung vào việc xây dựng các đường ống dữ liệu (ETL) hiệu quả và khám phá tiềm năng của <strong>OpenCV</strong> và <strong>Python</strong>.
+Dạo gần đây, mình bắt đầu bước chân vô thế giới <strong>Data Engineering</strong> để học cách biến những dòng dữ liệu khô khan thành các insight “xịn mịn” giúp sản phẩm thông minh hơn 💡. 
 </p>
 
 <h2>🎯 Mục tiêu Sự nghiệp</h2>
 <ul>
-  <li><strong>Ngắn hạn:</strong> Trở thành một <strong>Senior Developer</strong> xuất sắc, làm chủ các mẫu thiết kế hệ thống phức tạp và dẫn dắt các dự án có tầm ảnh hưởng.</li>
-  <li><strong>Dài hạn:</strong> Chuyển đổi thành công sang vai trò <strong>Data Engineer</strong>, chuyên sâu về kiến trúc hệ sinh thái dữ liệu lớn và ứng dụng Machine Learning.</li>
+  <li><strong>Ngắn hạn:</strong> Trở thành một <strong>Senior Developer</strong> cứng cáp, hiểu sâu – làm chắc, có thể dẫn dắt team và ship những dự án chất lượng tới tay người dùng.</li>
+  <li><strong>Dài hạn:</strong> Chuyển mình sang lĩnh vực <strong>Data Engineering</strong>, xây dựng những hệ thống dữ liệu quy mô lớn, đóng góp vào các sản phẩm mang tầm ảnh hưởng rộng.</li>
 </ul>
 
 </td>
@@ -52,16 +53,17 @@ Hiện tại, hành trình của tôi đang mở rộng sang lĩnh vực <strong
 
 <h2 align="center">🛠️ Kho Vũ khí Công nghệ</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,laravel,php,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=python,codeigniter,django,laravel,php,nodejs,express" /><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,graphql" /><br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions" /><br>
-  <img src="https://skillicons.dev/icons?i=opencv,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode,figma" />
 </p>
 
 </td>
 </tr>
 </table>
+
 
 
 
