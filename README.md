@@ -48,15 +48,57 @@
 
 ---
 
-## 🧭 Hành trình Sự nghiệp & Học hỏi
+## 🧭 Hành trình Sự nghiệp & Học hỏi (Dạng thẻ tương tác)
 
-| 🕒 Thời gian      | 🚀 Cột mốc                                      | 📝 Trọng tâm & Công nghệ                                                                       |
-|:------------------:|:------------------------------------------------|:-------------------------------------------------------------------------------------------------|
-| **2021 – 2022** | 👨‍🎓 **Xây dựng Nền tảng** | Bắt đầu với web fundamentals, đi sâu vào backend với **PHP & Laravel**. |
-| **2022 – 2023** | 🧰 **Chuyên sâu Backend & API** | Thiết kế **RESTful APIs** mạnh mẽ, tối ưu hóa CSDL, làm việc với **Django** và kiến trúc microservices.   |
-| **2023 – 2024** | 🌐 **Mở rộng Fullstack** | Làm chủ **React, Next.js, Vue.js** và tích hợp với các API (**REST, GraphQL**) để tạo ra ứng dụng hoàn chỉnh.  |
-| **2024 – Hiện tại** | ☁️ **Cloud, DevOps & Data** | Triển khai ứng dụng với **Docker, Kubernetes**, và bắt đầu hành trình với Dữ liệu, khám phá **OpenCV**. |
-| **Tương lai →** | 📊 **Tiến vào Vùng đất Dữ liệu** | **Mục tiêu:** Xây dựng các **ETL/ELT pipeline** phức tạp, làm chủ **Apache Airflow**, và ứng dụng AI/ML. |
+<details>
+  <summary><strong><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji> Tương lai →: Tiến vào Vùng đất Dữ liệu</strong></summary>
+  <br>
+  <blockquote>
+    <strong>Định hướng:</strong> Chuyên sâu vào việc xây dựng các đường ống dữ liệu (ETL/ELT) phức tạp, điều phối workflow với các công cụ hiện đại và ứng dụng các mô hình AI/ML vào thực tế.
+    <br><br>
+    <strong>Công nghệ mục tiêu:</strong> <code>Apache Airflow</code>, <code>dbt</code>, <code>Snowflake</code>, <code>Kafka</code>
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji> 2024 – Hiện tại: Cloud, DevOps & Data Immersion</strong></summary>
+  <br>
+  <blockquote>
+    Tập trung triển khai ứng dụng lên môi trường production, làm quen với các nguyên tắc Infrastructure as Code (IaC) và bắt đầu hành trình khám phá thế giới Dữ liệu.
+    <br><br>
+    <strong>Công nghệ chính:</strong> <code>Docker</code>, <code>Kubernetes</code>, <code>AWS</code>, <code>GitHub Actions</code>, <code>OpenCV</code>
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> 2023 – 2024: Mở rộng Fullstack & API Design</strong></summary>
+  <br>
+  <blockquote>
+    Làm chủ các framework frontend phổ biến để xây dựng ứng dụng end-to-end, kết nối với các API được thiết kế theo cả hai kiến trúc REST và GraphQL.
+    <br><br>
+    <strong>Công nghệ chính:</strong> <code>React</code>, <code>Next.js</code>, <code>Vue.js</code>, <code>GraphQL</code>
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji> 2022 – 2023: Chuyên sâu Backend & API</strong></summary>
+  <br>
+  <blockquote>
+    Tập trung xây dựng logic nghiệp vụ phức tạp, thiết kế RESTful APIs mạnh mẽ và tối ưu hóa hiệu năng cơ sở dữ liệu. Bắt đầu làm việc với hệ sinh thái Python.
+    <br><br>
+    <strong>Công nghệ chính:</strong> <code>Laravel</code>, <code>Django</code>, <code>MySQL</code>, <code>PostgreSQL</code>, <code>REST APIs</code>
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong><g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-200d-1f393.png">👨‍🎓</g-emoji> 2021 – 2022: Xây dựng Nền tảng</strong></summary>
+  <br>
+  <blockquote>
+    Bắt đầu hành trình lập trình với các kiến thức web nền tảng và chọn PHP & Laravel làm ngôn ngữ backend chủ đạo đầu tiên để đi sâu vào.
+    <br><br>
+    <strong>Công nghệ chính:</strong> <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>PHP</code>, <code>Laravel</code>
+  </blockquote>
+</details>
 
 ---
 
