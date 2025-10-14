@@ -26,38 +26,43 @@
   <a href="mailto:pbao.business@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=pbao9&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=pbao9&label=PROFILE+VIEWS&style=for-the-badge&color=blue" />
 </p>
 
 <table>
-  <tr>
-    <td valign="top" style="width:65%;">
-      <h2 align="left">👋 Giới thiệu</h2>
-      <p>
-        Tôi là một nhà phát triển đam mê xây dựng các hệ thống toàn diện, từ việc kiến trúc backend mạnh mẽ, thiết kế API linh hoạt (<strong>REST, GraphQL</strong>) cho đến việc tạo ra giao diện người dùng trực quan.
-      </p>
-      <p>
-        Hiện tại, hành trình của tôi đang mở rộng sang lĩnh vực <strong>Data Engineering</strong> và <strong>Computer Vision</strong>.
-      </p>
+<tr>
+<td valign="top" width="65%">
 
-      <h2 align="left">🎯 Mục tiêu Sự nghiệp</h2>
-      <ul>
-        <li><strong>Ngắn hạn:</strong> Trở thành một <strong>Senior Developer</strong> xuất sắc, làm chủ các mẫu thiết kế hệ thống phức tạp và dẫn dắt dự án có tầm ảnh hưởng.</li>
-        <li><strong>Dài hạn:</strong> Chuyển đổi thành công sang vai trò <strong>Data Engineer</strong>, chuyên sâu về kiến trúc dữ liệu lớn và ứng dụng ML.</li>
-      </ul>
-    </td>
-    <td valign="top" style="width:35%;">
-      <h2 align="center">🛠️ Kho Vũ khí Công nghệ</h2>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,django,laravel,php,nodejs,express" /><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind" /><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,graphql" /><br>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions" /><br>
-        <img src="https://skillicons.dev/icons?i=opencv,postman,vscode,figma" />
-      </p>
-    </td>
-  </tr>
+<h2>👋 Giới thiệu</h2>
+<p>
+Tôi là một nhà phát triển đam mê xây dựng các hệ thống toàn diện, từ việc kiến trúc backend mạnh mẽ, thiết kế API linh hoạt (<strong>REST, GraphQL</strong>) cho đến việc tạo ra giao diện người dùng trực quan.
+</p>
+<p>
+Hiện tại, hành trình của tôi đang mở rộng sang lĩnh vực <strong>Data Engineering</strong> và <strong>Computer Vision</strong>. Tôi tập trung vào việc xây dựng các đường ống dữ liệu (ETL) hiệu quả và khám phá tiềm năng của <strong>OpenCV</strong> và <strong>Python</strong>.
+</p>
+
+<h2>🎯 Mục tiêu Sự nghiệp</h2>
+<ul>
+  <li><strong>Ngắn hạn:</strong> Trở thành một <strong>Senior Developer</strong> xuất sắc, làm chủ các mẫu thiết kế hệ thống phức tạp và dẫn dắt các dự án có tầm ảnh hưởng.</li>
+  <li><strong>Dài hạn:</strong> Chuyển đổi thành công sang vai trò <strong>Data Engineer</strong>, chuyên sâu về kiến trúc hệ sinh thái dữ liệu lớn và ứng dụng Machine Learning.</li>
+</ul>
+
+</td>
+<td valign="top" width="35%">
+
+<h2 align="center">🛠️ Kho Vũ khí Công nghệ</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,laravel,php,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,graphql" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions" /><br>
+  <img src="https://skillicons.dev/icons?i=opencv,postman,vscode,figma" />
+</p>
+
+</td>
+</tr>
 </table>
+
 
 
 ---
