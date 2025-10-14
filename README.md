@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-    <a href="https://baro-dev.io.vn" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=icloud&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/pbao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://baro-dev.io.vn" target="blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/pbao" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:pbao.business@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=pbao9&label=PROFILE+VIEWS&style=for-the-badge&color=blue" />
 </p>
@@ -22,15 +22,15 @@
     <td width="65%" valign="top">
       <h2 align="left">👋 Giới thiệu</h2>
       <p align="left">
-        Chào bạn, tôi là một nhà phát triển đam mê xây dựng các hệ thống toàn diện, từ việc kiến trúc backend mạnh mẽ, thiết kế các API linh hoạt (**REST**, **GraphQL**) cho đến việc tạo ra giao diện người dùng trực quan.
-        <br/><br/>
-        Hành trình của tôi đang mở rộng sang lĩnh vực **Data Engineering** và **Computer Vision**. Tôi tập trung vào việc xây dựng các đường ống dữ liệu (ETL) hiệu quả, đồng thời khám phá tiềm năng của **OpenCV** và **Python** để biến dữ liệu thô và hình ảnh thành những insight giá trị, tạo ra các giải pháp thông minh và tự động hóa.
+        Tôi là một nhà phát triển đam mê xây dựng các hệ thống toàn diện, từ việc kiến trúc backend mạnh mẽ, thiết kế API linh hoạt (<strong>REST, GraphQL</strong>) cho đến việc tạo ra giao diện người dùng trực quan.
+        <br><br>
+        Hiện tại, hành trình của tôi đang mở rộng sang lĩnh vực <strong>Data Engineering</strong> và <strong>Computer Vision</strong>. Tôi tập trung vào việc xây dựng các đường ống dữ liệu (ETL) hiệu quả, đồng thời khám phá tiềm năng của <strong>OpenCV</strong> và <strong>Python</strong> để biến dữ liệu thô thành những insight giá trị.
       </p>
       
       <h2 align="left">🎯 Mục tiêu Sự nghiệp</h2>
       <ul>
-        <li>🎯 **Ngắn hạn:** Trở thành một **Senior Developer** xuất sắc, làm chủ các mẫu thiết kế hệ thống phức tạp và dẫn dắt các dự án có tầm ảnh hưởng.</li>
-        <li>🔭 **Dài hạn:** Chuyển đổi thành công sang vai trò **Data Engineer**, chuyên sâu về kiến trúc các hệ sinh thái dữ liệu lớn và ứng dụng Machine Learning.</li>
+        <li><strong>Ngắn hạn:</strong> Trở thành một <strong>Senior Developer</strong> xuất sắc, làm chủ các mẫu thiết kế hệ thống phức tạp và dẫn dắt các dự án có tầm ảnh hưởng.</li>
+        <li><strong>Dài hạn:</strong> Chuyển đổi thành công sang vai trò <strong>Data Engineer</strong>, chuyên sâu về kiến trúc các hệ sinh thái dữ liệu lớn và ứng dụng Machine Learning.</li>
       </ul>
     </td>
     <td width="35%" valign="top">
@@ -48,10 +48,10 @@
 
 ---
 
-## 🧭 Hành trình Sự nghiệp & Học hỏi (Dạng thẻ tương tác)
+## 🧭 Hành trình Sự nghiệp & Học hỏi
 
 <details>
-  <summary><strong><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📊</g-emoji> Tương lai →: Tiến vào Vùng đất Dữ liệu</strong></summary>
+  <summary><strong><g-emoji class="g-emoji" alias="chart_with_upwards_trend">📊</g-emoji> 2025 →: Tiến vào Vùng đất Dữ liệu</strong></summary>
   <br>
   <blockquote>
     <strong>Định hướng:</strong> Chuyên sâu vào việc xây dựng các đường ống dữ liệu (ETL/ELT) phức tạp, điều phối workflow với các công cụ hiện đại và ứng dụng các mô hình AI/ML vào thực tế.
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-  <summary><strong><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji> 2024 – Hiện tại: Cloud, DevOps & Data Immersion</strong></summary>
+  <summary><strong><g-emoji class="g-emoji" alias="cloud">☁️</g-emoji> 2024 – 2025: Cloud, DevOps & Data Immersion</strong></summary>
   <br>
   <blockquote>
     Tập trung triển khai ứng dụng lên môi trường production, làm quen với các nguyên tắc Infrastructure as Code (IaC) và bắt đầu hành trình khám phá thế giới Dữ liệu.
@@ -71,7 +71,7 @@
 </details>
 
 <details>
-  <summary><strong><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> 2023 – 2024: Mở rộng Fullstack & API Design</strong></summary>
+  <summary><strong><g-emoji class="g-emoji" alias="globe_with_meridians">🌐</g-emoji> 2023 – 2024: Mở rộng Fullstack & API Design</strong></summary>
   <br>
   <blockquote>
     Làm chủ các framework frontend phổ biến để xây dựng ứng dụng end-to-end, kết nối với các API được thiết kế theo cả hai kiến trúc REST và GraphQL.
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-  <summary><strong><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji> 2022 – 2023: Chuyên sâu Backend & API</strong></summary>
+  <summary><strong><g-emoji class="g-emoji" alias="toolbox">🧰</g-emoji> 2022 – 2023: Chuyên sâu Backend & API</strong></summary>
   <br>
   <blockquote>
     Tập trung xây dựng logic nghiệp vụ phức tạp, thiết kế RESTful APIs mạnh mẽ và tối ưu hóa hiệu năng cơ sở dữ liệu. Bắt đầu làm việc với hệ sinh thái Python.
@@ -91,7 +91,7 @@
 </details>
 
 <details>
-  <summary><strong><g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-200d-1f393.png">👨‍🎓</g-emoji> 2021 – 2022: Xây dựng Nền tảng</strong></summary>
+  <summary><strong><g-emoji class="g-emoji" alias="man_student">👨‍🎓</g-emoji> 2021 – 2022: Xây dựng Nền tảng</strong></summary>
   <br>
   <blockquote>
     Bắt đầu hành trình lập trình với các kiến thức web nền tảng và chọn PHP & Laravel làm ngôn ngữ backend chủ đạo đầu tiên để đi sâu vào.
