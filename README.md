@@ -35,12 +35,6 @@
 
 ---
 
-### 📊 Github Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbao9&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbao9&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/pbao9/pbao9/output/github-contribution-grid-snake.svg" width="90%"/>
 </p>
