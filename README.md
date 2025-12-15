@@ -18,23 +18,24 @@
 
 ---
 
-### 🚀 About  
+### About  
 Fullstack developer tập trung vào **Backend Architecture**, **DevOps Deployment** và **Data Engineering**.  
 Mình luôn hướng tới việc xây dựng các sản phẩm thực chiến có thể **scale lên production**.
 
 ---
 
-### 🛠 Tech Stack  
+### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,express,nestjs,django" /><br>
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,express,nestjs,django,graphql" /><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" /><br>
   <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git" />
 </p>
 
+
 ---
 
-### 📊 GitHub Overview
+### GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pbao9&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbao9&theme=tokyonight&hide_border=true" />
