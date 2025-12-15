@@ -46,13 +46,15 @@ I prioritize systems that are **scalable, maintainable, and production-proven**.
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,tailwind" />
 </p>
 
 - SPA and SSR applications (SEO-focused)
 - Component-driven UI architecture
+- Enterprise-ready frameworks (Angular, modular architecture)
 - Admin dashboards and internal tools
 - Performance and accessibility optimization
+
 
 ---
 
@@ -91,13 +93,6 @@ I prioritize systems that are **scalable, maintainable, and production-proven**.
 - Monitoring, logging, and backups
 
 ---
-
-### GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbao9&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbao9&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/pbao9/pbao9/output/github-contribution-grid-snake.svg" width="90%" />
 </p>
