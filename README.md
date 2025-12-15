@@ -26,7 +26,7 @@ Mình luôn hướng tới việc xây dựng các sản phẩm thực chiến c
 
 ### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,express,django" /><br>
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,express,nestjs,django" /><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" /><br>
   <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git" />
