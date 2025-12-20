@@ -46,7 +46,7 @@ I prioritize systems that are **scalable, maintainable, and production-proven**.
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,ts,tailwind" />
 </p>
 
 - SPA and SSR applications (SEO-focused)
