@@ -13,76 +13,88 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&lines=Backend+%26+API+Architect;Fullstack+Engineer;Cloud+%7C+DevOps+%7C+Data+Engineering;Build+%7C+Ship+%7C+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&lines=Backend+Engineer;Fullstack+Engineer;Cloud+%7C+DevOps;Exploring+Data+Engineering;Build+%7C+Ship+%7C+Scale" />
 </p>
 
 ---
 
 ### About
-Fullstack engineer with a strong focus on **Backend Architecture**, **API Design**,  
-**Cloud & DevOps Deployment**, and an evolving interest in **Platform / Data Engineering**.
+
+Backend-focused Fullstack Engineer with a strong focus on **Backend Development**, **API Design**,  
+**Cloud & DevOps Deployment**, and **Database Engineering**.
 
 Experienced in building:
 - RESTful & GraphQL APIs
-- Modular backends (clean architecture, domain-driven design)
-- Production-ready systems using Docker and cloud services
-- Data pipelines, analytics, and automation workflows
+- Modular and maintainable backend systems
+- Production-ready applications using Docker and cloud services
+- Database-driven applications and internal platforms
+- Automation workflows and data processing pipelines
 
-I prioritize systems that are **scalable, maintainable, and production-proven**.
+Currently **learning and exploring Data Engineering**, with a focus on  
+**SQL, data pipelines, data warehousing, ETL, and analytics systems**.
+
+I prioritize systems that are **scalable, maintainable, and production-ready**.
 
 ---
 
 ### Backend & API
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,php,laravel,python,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,php,laravel,python" />
 </p>
 
 - RESTful & GraphQL APIs (Apollo, Lighthouse, schema-first)
 - Authentication, authorization, RBAC
-- Modular monoliths and microservices
-- Background jobs, queues, cron jobs, webhooks
+- Modular monoliths and service-oriented architecture
+- Background jobs, queues, cron jobs, and webhooks
+- API integration and third-party services
 
 ---
 
 ### Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,tailwind" />
 </p>
 
-- SPA and SSR applications (SEO-focused)
+- SPA and SSR applications
 - Component-driven UI architecture
-- Enterprise-ready frameworks (Angular, modular architecture)
 - Admin dashboards and internal tools
-- Performance and accessibility optimization
-
+- SEO and performance optimization
+- Responsive and accessible interfaces
 
 ---
 
 ### Data & Storage
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,firebase" />
 </p>
 
 - Relational and NoSQL databases
 - Query optimization and indexing
-- ETL, data cleaning, reporting
-- Analytics-ready schema design
+- Database schema design
+- ETL and data processing
+- Analytics-ready data modeling
 - Firebase (Auth, Firestore, Realtime Database)
 
 ---
 
 ### Media & Cloud Services
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cloudinary,aws" />
 </p>
 
-- Media storage, image/video optimization (Cloudinary)
-- Cloud services, IAM, networking, DNS
+- Media storage and image/video optimization
+- Cloud services, IAM, networking, and DNS
 - Secure file uploads and CDN delivery
+- Cloud-based application deployment
 
 ---
 
 ### DevOps & Tooling
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
 </p>
@@ -91,8 +103,27 @@ I prioritize systems that are **scalable, maintainable, and production-proven**.
 - CI/CD pipelines
 - Cloud deployment and environment management
 - Monitoring, logging, and backups
+- Git-based development workflows
 
 ---
+
+### Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres" />
+</p>
+
+**Data Engineering**
+- Advanced SQL
+- ETL / ELT pipelines
+- Data Warehousing
+- Data Modeling
+- BigQuery
+- dbt
+- Apache Spark
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/pbao9/pbao9/output/github-contribution-grid-snake.svg" width="90%" />
 </p>
