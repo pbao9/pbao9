@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&lines=Backend+Engineer;Fullstack+Engineer;Cloud+%7C+DevOps;Exploring+Data+Engineering;Build+%7C+Ship+%7C+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&lines=Backend+Engineer;Fullstack+Engineer;DevOps;Exploring+Data+Engineering;Build+%7C+Ship+%7C+Scale" />
 </p>
 
 ---
@@ -21,12 +21,12 @@
 ### About
 
 Backend-focused Fullstack Engineer with a strong focus on **Backend Development**, **API Design**,  
-**Cloud & DevOps Deployment**, and **Database Engineering**.
+**DevOps**, and **Database Engineering**.
 
 Experienced in building:
 - RESTful & GraphQL APIs
 - Modular and maintainable backend systems
-- Production-ready applications using Docker and cloud services
+- Production-ready applications using Docker
 - Database-driven applications and internal platforms
 - Automation workflows and data processing pipelines
 
@@ -80,28 +80,16 @@ I prioritize systems that are **scalable, maintainable, and production-ready**.
 
 ---
 
-### Media & Cloud Services
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cloudinary,aws" />
-</p>
-
-- Media storage and image/video optimization
-- Cloud services, IAM, networking, and DNS
-- Secure file uploads and CDN delivery
-- Cloud-based application deployment
-
----
-
 ### DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,nginx" />
 </p>
 
 - Docker and Docker Compose
 - CI/CD pipelines
-- Cloud deployment and environment management
+- Application deployment and environment management
+- Nginx and reverse proxy configuration
 - Monitoring, logging, and backups
 - Git-based development workflows
 
