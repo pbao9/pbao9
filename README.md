@@ -39,13 +39,13 @@ data modeling, warehousing, and analytics systems.
 <h3><code>// stack</code></h3>
 
 <p><strong>Backend</strong></p>
-<p><code>Node.js</code> <code>NestJS</code> <code>Express</code> <code>PHP</code> <code>Laravel</code> <code>Python</code> <code>GraphQL</code></p>
+<p><code>Node.js</code> <code>NestJS</code> <code>Express</code> <code>Golang</code> <code>PHP</code> <code>Laravel</code> <code>Python</code> <code>GraphQL</code></p>
 
 <p><strong>Frontend</strong></p>
 <p><code>React</code> <code>Next.js</code> <code>Vue</code> <code>Nuxt</code> <code>TypeScript</code> <code>Tailwind</code></p>
 
 <p><strong>Data</strong></p>
-<p><code>MySQL</code> <code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> <code>Firebase</code></p>
+<p><code>MySQL</code> <code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> <code>Supabase</code> <code>Firebase</code></p>
 
 <p><strong>DevOps</strong></p>
 <p><code>Docker</code> <code>GitHub Actions</code> <code>Nginx</code> <code>Git</code></p>
