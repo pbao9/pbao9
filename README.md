@@ -1,121 +1,95 @@
-<h1 align="center">Hey, I'm Baro Pham</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://baro-dev.io.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" />
+<h1>Baro Pham</h1>
+
+<p><strong>Backend Engineer · Fullstack · DevOps · Data Engineering</strong></p>
+
+<p>Building systems that are <strong>simple, reliable, and ready for production.</strong></p>
+
+<p>
+  <a href="https://baro-dev.io.vn">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://devro-tech.com" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-2C2C2C?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <a href="https://devro-tech.com">
+    <img src="https://img.shields.io/badge/Freelancer-111111?style=flat-square&logo=cloudflare&logoColor=white" alt="Freelancer">
   </a>
   <a href="mailto:info@devro-tech.com">
-    <img src="https://img.shields.io/badge/Email-info@devro--tech.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=1100&lines=Backend+Engineer;Fullstack+Engineer;DevOps;Exploring+Data+Engineering;Build+%7C+Ship+%7C+Scale" />
+</div>
+
+<hr>
+
+<h3><code>&gt; whoami</code></h3>
+
+<p>
+Backend-focused Fullstack Engineer who enjoys turning messy requirements into
+<strong>clean APIs, reliable services, and maintainable systems.</strong>
 </p>
 
----
-
-### About
-
-Backend-focused Fullstack Engineer with a strong focus on **Backend Development**, **API Design**,  
-**DevOps**, and **Database Engineering**.
-
-Experienced in building:
-- RESTful & GraphQL APIs
-- Modular and maintainable backend systems
-- Production-ready applications using Docker
-- Database-driven applications and internal platforms
-- Automation workflows and data processing pipelines
-
-Currently **learning and exploring Data Engineering**, with a focus on  
-**SQL, data pipelines, data warehousing, ETL, and analytics systems**.
-
-I prioritize systems that are **scalable, maintainable, and production-ready**.
-
----
-
-### Backend & API
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,php,laravel,python" />
+<p>
+Currently going deeper into <strong>Data Engineering</strong> — SQL, data pipelines,
+data modeling, warehousing, and analytics systems.
 </p>
 
-- RESTful & GraphQL APIs (Apollo, Lighthouse, schema-first)
-- Authentication, authorization, RBAC
-- Modular monoliths and service-oriented architecture
-- Background jobs, queues, cron jobs, and webhooks
-- API integration and third-party services
+<pre><code>BUILD  →  SHIP  →  SCALE</code></pre>
 
----
+<h3><code>// stack</code></h3>
 
-### Frontend
+<p><strong>Backend</strong></p>
+<p><code>Node.js</code> <code>NestJS</code> <code>Express</code> <code>PHP</code> <code>Laravel</code> <code>Python</code> <code>GraphQL</code></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,tailwind" />
-</p>
+<p><strong>Frontend</strong></p>
+<p><code>React</code> <code>Next.js</code> <code>Vue</code> <code>Nuxt</code> <code>TypeScript</code> <code>Tailwind</code></p>
 
-- SPA and SSR applications
-- Component-driven UI architecture
-- Admin dashboards and internal tools
-- SEO and performance optimization
-- Responsive and accessible interfaces
+<p><strong>Data</strong></p>
+<p><code>MySQL</code> <code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> <code>Firebase</code></p>
 
----
+<p><strong>DevOps</strong></p>
+<p><code>Docker</code> <code>GitHub Actions</code> <code>Nginx</code> <code>Git</code></p>
 
-### Data & Storage
+<h3><code>// what_i_build</code></h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,firebase" />
-</p>
+<ul>
+  <li>RESTful &amp; GraphQL APIs</li>
+  <li>Modular monoliths &amp; service-oriented systems</li>
+  <li>Authentication · Authorization · RBAC</li>
+  <li>Queues · Background Jobs · Cron · Webhooks</li>
+  <li>Database schema design &amp; query optimization</li>
+  <li>Internal platforms &amp; business applications</li>
+  <li>Dockerized production environments</li>
+  <li>CI/CD &amp; deployment workflows</li>
+  <li>ETL / ELT pipelines &amp; data processing</li>
+</ul>
 
-- Relational and NoSQL databases
-- Query optimization and indexing
-- Database schema design
-- ETL and data processing
-- Analytics-ready data modeling
-- Firebase (Auth, Firestore, Realtime Database)
+<h3><code>// currently_learning</code></h3>
 
----
+<pre><code>Data Engineering
+├── Advanced SQL
+├── Data Modeling
+├── ETL / ELT
+├── Data Warehousing
+├── BigQuery
+├── dbt
+└── Apache Spark</code></pre>
 
-### DevOps & Tooling
+<h3><code>// engineering_principles</code></h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,nginx" />
-</p>
+<blockquote>
+  Keep it simple.<br>
+  Make it observable.<br>
+  Design for change.<br>
+  Ship useful things.
+</blockquote>
 
-- Docker and Docker Compose
-- CI/CD pipelines
-- Application deployment and environment management
-- Nginx and reverse proxy configuration
-- Monitoring, logging, and backups
-- Git-based development workflows
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/pbao9/pbao9/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake">
 
-### Currently Learning
+<br><br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres" />
-</p>
+<strong><code>Build what matters. Share what grows.</code></strong>
 
-**Data Engineering**
-- Advanced SQL
-- ETL / ELT pipelines
-- Data Warehousing
-- Data Modeling
-- BigQuery
-- dbt
-- Apache Spark
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pbao9/pbao9/output/github-contribution-grid-snake.svg" width="90%" />
-</p>
-
----
-
-<p align="center"><i>"Build what matters. Share what grows."</i></p>
+</div>
