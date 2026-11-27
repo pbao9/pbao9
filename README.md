@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/dqtxna4oa/image/upload/v1795773131/93564fc5-d5ad-4fe9-b060-8b65f231bbee_zckcyl.png" width="100%" alt="Baro Pham - Backend Engineer">
 
-# Baro Pham
+# 0barroo
 
 **Backend Engineer · Database Engineering · DevOps**
 
